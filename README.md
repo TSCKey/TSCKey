@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
   🛠️ Tech Stack: HTML, CSS, JavaScript
 
 🔎 Custom Startup Page
+
 A personalized browser start page that enhances the traditional Google homepage:
 
     .🌐 Quick access to search on different websites (Google, YouTube, Tiktok)
@@ -34,6 +35,7 @@ A personalized browser start page that enhances the traditional Google homepage:
     .🎨 Simple, clean, and responsive UI
 
 🎲 Luck Games
+
 A collection of simple web games that revolve around chance, statistics, and a bit of strategy:
 
     .🎰 Luck-based games built with basic HTML/CSS/JS
