@@ -20,6 +20,28 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
 
 > Here are a few projects I've worked on recently. Check out the repositories for details!
 
+- 📘[Webpages](https://github.com/TSCKey/Websites.git)
+
+  Here are some of the personal web-based tools and games I've built (or am actively working on) to improve my browsing experience and explore creative ideas through development.
+
+  🛠️ Tech Stack: HTML, CSS, JavaScript
+
+🔎 Custom Startup Page
+A personalized browser start page that enhances the traditional Google homepage:
+
+    .🌐 Quick access to search on different websites (Google, YouTube, Tiktok)
+
+    .🎨 Simple, clean, and responsive UI
+
+🎲 Luck Games
+A collection of simple web games that revolve around chance, statistics, and a bit of strategy:
+
+    .🎰 Luck-based games built with basic HTML/CSS/JS
+
+    .📊 Some games involve probability and pseudo-random logic
+
+    .🕹️ Great for quick fun or JS experimentation
+
 
 ## 📫 How to Reach Me
 
