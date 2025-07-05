@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
 
 ## 📄 Resume
 
-You can download my resume [here](https://yourwebsite.com/resume.pdf).
+You can download my resume [here](). %%Still under construction%%
 
 ---
 
