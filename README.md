@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
 
   🛠️ Tech Stack: HTML, CSS, JavaScript
 
-🔎 Custom Startup Page
+🔎 [Custom Startup Page](https://tsckey.github.io/custom-startup-page)
 
 A personalized browser start page that enhances the traditional Google homepage:
 
