@@ -29,9 +29,8 @@ A full-stack competitive Rock · Paper · Scissors platform with real-time multi
 - 🎮 Real-time ranked matchmaking with Elo-based rating system and dynamic K-factor
 - 🔐 JWT authentication + Google / Facebook / X OAuth2 social login
 - 📧 Email verification for sign-up and profile changes (Spring Mail)
-- 👥 Friend system, direct messaging, and live presence (ONLINE / IN\_QUEUE / IN\_GAME / OFFLINE)
+- 👥 Friend system, direct messaging, and live presence
 - 🏆 Global leaderboard with per-mode Elo rankings, win streaks, and tier system
-- ☁️ Deployed on Render (backend) and Vercel (frontend)
 
 ---
 
@@ -42,7 +41,7 @@ A desktop product rating application built as a university project, focused on c
 
 **Highlights:**
 - 🖥️ JavaFX GUI with MVC architecture (LoginView, RegisterView, PostSearchView, PostView)
-- 🌐 Custom TCP client–server protocol with a defined command/status enum system (`LOGIN`, `REGISTER`, `GET_ITEMS`, `ADD_ITEM`, `DELETE_ITEM`…)
+- 🌐 Custom TCP client–server protocol with a defined command/status enum system
 - 🔒 Thread-safe concurrent database access using `ReentrantLock` to prevent race conditions across simultaneous `ClientHandler` threads
 - 🗄️ SQLite persistence with a 1:n relationship between user profiles and posts
 - 👤 User profile management: register, login, update username/email, delete account
