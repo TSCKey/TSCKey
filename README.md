@@ -65,9 +65,9 @@ A personalized browser start page that enhances the traditional new-tab experien
 
 ---
 
-## 📄 Resume
+## 📄 Portfolio
 
-You can download my resume [here](). %%Still under construction%%
+You can view my portfolio from [here](https://tsckey.github.io/Portfolio/)
 
 ---
 
